@@ -1,0 +1,25 @@
+input{
+    width: 70vh;
+    height: 7vh;
+    border-radius: 9px;
+    background-color: #7D1935;
+    border: none; 
+    position: relative;
+    left: 0;
+    top: -15vh;
+    font-size: 6vh;
+    
+}
+
+.HURR{
+    display: grid;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+LoaderGraph{
+    max-height: 30vh;
+}
+marquee{
+margin-top: 10vh;
+}

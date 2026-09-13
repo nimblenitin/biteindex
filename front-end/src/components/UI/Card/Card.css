@@ -1,0 +1,38 @@
+.card {
+  display: inline-block;
+  flex-direction: column;
+  border: 3px solid #ccc;
+  border-radius: 9px;
+  margin: 20px;
+  width: calc(.69 * 100vw);
+}
+.card img {
+  float: left;
+  margin-right: 10px;
+  width: 30%;
+  height: auto;
+  border-radius: 3px;
+}
+
+.card-content {
+  padding: 10px;
+  overflow: hidden;
+}
+
+.card-title {
+  font-size: 34px;
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.circle-graphs{
+  margin-top: 20px;
+  display: flex;
+  color: white;
+}
+.valuelabel{
+  color: white;
+}
+.circle{
+  color:white;
+}
